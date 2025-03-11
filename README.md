@@ -1,30 +1,48 @@
 java c
-DDES9013 Assessment   2   brief
-Title: Studio Project   Weighting: 60%
-Assessment type:   Project   Group work:   No
-Submission details:
-•          Part A: Project presentation to be   delivered   in   your tutorial class   (Week   10)
-•          Part   B: Project   requirements   submitted   to   Moodle   before   5pm   on   the   day   of   your   tutorial   class (Week   11)
-Due: Week 10   and   11
-Assessment overview:
-This assessment builds on knowledge gained in Assessment 1   and   requires you to produce a   range   of   design   solutions   for   a   prescribed   challenge   and   cultural   context. Your   final   project   will   demonstrate   a holistic   design   approach   that   addresses   the   needs   of   all   stakeholders   and   clearly   reflects   your   own   emerging values as a responsible design practitioner.   Feedback will be provided on   a   regular   basis   in tutorial/studio   through   discussion   with   peers   and   tutors. Summative   assessment   and   feedback   will   be provided   digitally   based   on   the   rubric.
-Detailed assessment description:
-This   individual   assessment   involves   completing   your   design   project   brief   from   Assessment   1 for   submission.
-In   this   assessment   task   you   are   to   create   a   design   solution   in   response   to   the   self-initiated   design   brief   that was   submitted   for   Assessment   1. You   will   begin   the   task   by   building   a   contextual   background   for   the design project, which involves undertaking further research and analysis to better understand   the design opportunity and the socio-cultural context, stakeholders, and end users. You will document your progress   throughout   the   project   including   further   design   sketches, samples, experiments, sample   prototypes, and   final   designed   outcomes, to   build   a   process   journal   with   visual   and   textual   research   and   reflective   annotations.
-There are two parts to complete: (1) a project presentation of a design solution (due Week   10);   and   (2)   a   completed   design   project   work, including   reflective   statement, process   journal   work, and   designed outcomes (due Week 11).
-In the project presentation, you will outline the development of your design project work including research   and analysi代 写DDES9013 Assessment 2C/C++
-代做程序编程语言s, the context   / end user, and key design work. The second part requires you to submit your completed   design   project   work, including   a   300-word   reflective   statement, process   journal   work, and designed   outcomes.
-Part 1:   Project Presentation
-In Week 10 you will present a project presentation in the tutorial class. The project presentation must discuss   your   design   opportunity   and   take   us   through   the   steps   involved   in   the   completion   of   the   design   project   work   – from   research   to   initial   sketches   and   design   outcome(s). Explain   where   you   use   the   findings   from your research, and where possible tests with end users, to ensure your design is successful.
-Remember that you should show your final   design clearly in the presentation. Ensure you include visual   examples   in   the   presentation, alongside   textual   information. Make   sure   to   link   the   images   to   your discussion   so   that   they   support   your   presentation.
-Part 2: Design   Outcome
-Your design outcomes should reference and respond to your design project brief research. You should   effectively   communicate   your   design   project   through   models, drawings, poster   and/or   visual   presentation,   and process   journal work. The context in which it is placed, seen or experienced   must   be   identified   as well   as the specific end user. Testing your ideas with your target audience or end user is highly   desirable,   and will   demonstrate   the   feasibility   of   your   design   project   in   a   real   world   context.
-Submission requirements:
-Part B   (Week   11)
-What   to   submit: A   digitalised   version   of   your   design   project   work.
-Your project work will include your process   journal work, in   a PDF document. You should include:   images of   your   final   design(s) along   with   images   of   your   supporting   creative   work   (sketches   / drawings   / models   /   objects as appropriate), your reflective comments, research (background on the problem, end   user, context,   precedents, etc), and a reference list. All sources must   be cited   using APA   Referencing   Style.
-Due date:
-•          Week 11   upload your file(s) to the Moodle folder   before   5pm   on the day of your class session.
+DDES9013 Assessment   1   brief 
+Title: Precedent Studies
+Weighting: 40%
+Assessment type: Studio Project
+Group work: Yes
+Submission details: 
+•            Part A: Group presentation due in class
+•          Part   B: Individual   design   brief   and   documentation   submitted   to   Moodle   at   the   beginning   of   class Due: Week   5
+Assessment overview: This assessment requires you to work in groups to research and critically analyse a range   of precedents   which address contemporary design problems and stakeholder groups. Correctly referenced visual   and      written   analysis   is   required. Feedback   will   be   provided   on   a   regular   basis   in   tutorial/studio   through discussion   with   peers   and   tutors. Summative   assessment   and   feedback   will   be   provided   digitally   based   on   the   rubric. 
+Detailed assessment description: 
+This assessment has two parts: (A) Group Research   and   Presentation;   and   (B)   Individual   Design   Brief   and   Process Journal.
+The   first   part   of   the   assessment   invites   you   to   work   in   groups   to   research   and   critically   analyse   two precedents   which   address   a   contemporary   design   challenge   that   your   group   will   select   from   the   prescribed   list   below   (refer   also   to   the   more   detailed   list   in   Moodle): 
+1.       Circular   Design
+2.       Design for Social   Impact
+3.       Design   for   Accessibility
+4.       Sustainable Fashion
+5.         Design and   Health
+6.         Eco-Design
+The   second   part   of   the   assessment   involves   writing   an   individual   design   project   brief   for   a   project   (that   you will   complete   for   Assessment   2).
+Steps to complete the assessment: 
+Part A: Group Research Presentation 
+For   the   first   part   of   the   assessment, you   will   work   within   a   small   team   of   3 to   prepare   a   research presentation   that   examines   a   design   challenge   within   two   different   socio-cultural   contexts. The   team   will   discuss and select the design challenge, gather and analyse research, make comparisons,   and   prepare   a      group   research   presentation   that   will   be   communicated   in   class. 
+1.       Conduct group-initiated research into 2 case studies that have adopted   responses to your selected      design   challenge   but   in   different   socio-cultural   contexts   (e.g. a   western   and   a   non-western   context).   Your   case   studies   may   draw   from   socio-cultural   contexts   in   local   and   global   locations. Your presentation   should   form   a   comparative   analysis   of   your   two   precedents   covering   (1) cultural, social, behavioural, ethical, environmental, and sustainability issues; and (2) stakeholder perspectives and the design considerations utilised. It will be useful to refer to the UN Sustainable   Development Goals (SDGs) or other theoretical lenses to measure the effectiveness of your case         studies. 
+2.      The presentation must include visual and written components and include a comprehensive reference   list   in   APA   style   format.
+3.      The   responsibility   for   each   aspect   of   the   group   work   should   be   delegated   strategically   to   individual members   of   your   team   on   the   basis   of   their   nominated   area(s) of   disc代 写DDES9013 Assessment 1SQL
+代做程序编程语言iplinary   expertise   or   interest.      You   will   need   to   record   your   contribution   to   the   group   work   in   your   process   journal   while   providing    evidence of reflective analysis of your own emerging values as a design practitioner.
+4.      The   presentation   will   conclude   with   a   brief   overview   of   your   individual   design   project   briefs   that   will be   completed   for   Assessment   2.
+Part B: Design Proposal and Process Journal 
+For   the   writing   of   the   design   project   brief, and   the   corresponding   process   journal   work, you   will   work individually.
+1.       In this part of the assessment you will   apply your group research to the design challenge, relevant
+cultural   considerations, stakeholders   and   end-users   in   a   specific   socio-cultural   context. Your   design   project brief should clearly specify and explain (1) the problem and design opportunity; the proposed context, stakeholders, and end user; (2) the design outcomes that you intend to create for   Assessment 2; and (3) a plan for how you will execute the work in the allocated timeframe. 
+2.      You   will   need   to   provide   process   journal   work   to   demonstrate   the   direction   and   feasibility   of   your
+project, which includes preliminary design work such as design ideas, sketches, and samples.
+How to prepare the assessment: 
+As a group create a visually and experientially coherent Group Research   Presentation that should   reflect   the analysis of your research, key findings, and a summary of the individual design   project   briefs. This should be timed to approx. 15 minutes and it will be presented in the tutorial group   session in   Week   5. A   PDF   version   of   the   presentation   (that   includes   the   verbal   script) must   be   submitted   to   Moodle   before   the   end of your class session.
+As an individual create a PDF that includes: (1) the work you conducted for the group research presentation; (2) your   finalised   design   project   brief   (to   complete   for   Assessment   2), and   (3) the   process journal   work   that   evidences   a   reflective   approach   to   the   direction   and   feasibility   of   your   design   project   brief.
+Submission requirements: 
+1.       Group Research Presentation: Present your 15   minute   Research   Presentation   in the tutorial session.
+2.       Upload   a   PDF   version   of   the   presentation   (which   shows   slides   and   text/script) to   Moodle   before   the   end of your class session. Please be aware of file size restrictions when uploading to Moodle.
+3.       Individual Design project brief, process   journal work,   and team evaluation:   Include your finalised
+individual   design   project   brief   and   corresponding   journal   process   work; and   include   journal   work   to demonstrate your contribution to the group research presentation. Upload a PDF copy to Moodle before the end of your class session. Please be aware of file size restrictions when uploading to Moodle. All sources must be cited using APA Referencing Style.
+4.       Compile your group and individual work: Create ONE   PDF file containing your final   Group   Research Presentation and your Individual Design project brief, process   journal work, and team evaluation   and   upload to Moodle by the due date.
+
+
 
          
 加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
